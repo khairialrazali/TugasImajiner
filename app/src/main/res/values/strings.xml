@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi Bilangan Kompleks</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="oper_arit">
+        <item>+</item>
+        <item>-</item>
+        <item>/</item>
+        <item>*</item>
+    </string-array>
+</resources>
